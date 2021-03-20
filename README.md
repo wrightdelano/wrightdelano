@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @wrightdelano
+- 👀 I’m interested in ... distributed web technologies, react, javascript, websites, ui design
+- 🌱 I’m currently learning ... new ui design tricks, emerging web techologies, and more
+- 💞️ I’m looking to collaborate on ... website projects
+- 📫 How to reach me ... dwright@nis.gg
